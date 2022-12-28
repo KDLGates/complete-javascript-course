@@ -1,3 +1,11 @@
+This is my coursework fork of the Udemy JavaScript Course by Jonas Schmedtmann.
+
+[Original course GitHub](https://github.com/jonasschmedtmann/complete-javascript-course)
+
+Original course readme follows.
+
+---
+
 # Course Material and FAQ for my Complete JavaScript Course
 
 This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.
